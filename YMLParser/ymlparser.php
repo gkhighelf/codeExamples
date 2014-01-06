@@ -2,7 +2,6 @@
 /**
  * YML XML file parsers helper.
  *
- * @package    CodeIgniter
  * @category   Library
  * @author     HighElf
  * @copyright  (c) 2013 HighElf
